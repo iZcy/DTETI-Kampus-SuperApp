@@ -40,7 +40,11 @@ Silakan tambahkan ide fitur Anda di bawah kategori yang paling sesuai. Jika Anda
 
 ### D. Administrasi & Layanan Pendukung ⚙️
 <!-- START MENAMBAHKAN DI SINI -->
-
+* **Nama Fitur:** Sistem Intelijen Aspirasi Realtime berbasis Geospasial
+* **Deskripsi Singkat:** Fitur ini memungkinkan mahasiswa, dosen, tendik, dan seluruh civitas academica DTETI untuk menyampaikan laporan realtime dengan bukti pendukung yang bisa di-upload siapa saja, dilihat siapa saja, dan diperhatikan oleh siapa saja untuk mengawal berbagai macam kepentingan departemen untuk memperbaiki pelayanan serta kualitas sarana dan prasarana belajar mengajar.
+* **Target Pengguna Utama:** Seluruh civitas academica DTETI
+* **Value Proposition:** Menunjang pengawalan respon terhadap isu terkait pelayanan, sarana, dan prasarana DTETI secara transparan murni.
+* **Diajukan oleh:** 499769
 <!-- BERHENTI MENAMBAHKAN DI SINI -->
 
 ### E. Ide Inovatif Lainnya ✨
